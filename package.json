@@ -32,5 +32,8 @@
 	},
 	"bugs": {
 		"url": "https://github.com/PigeonPosse/stylelint-config/issues"
+	},
+	"extra": {
+		"config": false
 	}
 }
